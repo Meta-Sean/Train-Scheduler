@@ -1,0 +1,22 @@
+#head {
+    background: lightblue;
+    
+
+}
+.jumbotron {
+    background: lightblue;
+    text-align: center;
+}
+
+#input{
+    padding-top: 25px;
+}
+
+body{
+    background: url(../images/wormz.png)
+}
+
+button {
+    padding-top: 15px;
+    margin-top: 6px;
+}
