@@ -9,6 +9,6 @@ This app will calculate when the next train will arrive, relative to the current
 
 
 <p align="center">
-  <img src="Desktop/Train-Scheduler/assets/images/Screenshot_1.png" width="350" title="hover text">
-  <img src="Desktop/Train-Scheduler/assets/images/Screenshot_1.png"  width="350" alt="accessibility text">
+  <img src="C:\Users\The Portal\Desktop\Train-Scheduler\assets\images\Screenshot_1.png" width="350" title="hover text">
+  <img src="C:\Users\The Portal\Desktop\Train-Scheduler\assets\images\Screenshot_1.png"  width="350" alt="accessibility text">
 </p>
